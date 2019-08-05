@@ -23,5 +23,5 @@ for ifile to numberOfFiles
 endfor
 
 appendInfoLine: "Done."
-Select all
+select all
 Remove
